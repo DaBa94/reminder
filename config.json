@@ -1,0 +1,16 @@
+{
+    "appointments":[
+
+        {
+            "kind":"Birthday",
+            "name":"Max Mustermann",
+            "birthday":"01.01.2000"
+        },
+        {
+            "kind":"Birthday",
+            "name":"Jane Doe",
+            "birthday":"01.01.2000"
+        }
+
+    ]
+}
